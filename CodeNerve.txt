@@ -5,8 +5,10 @@ My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf 
 Hey there! My name is Kenaz Kwa. 
 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You're probably wondering. It's pronounced KAY-NUSS.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I'm a Principal Product Manager at Puppet. Based out of Portland, Oregon.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I've built lots of products over the past 10 years in the enterprise infrastructure space. Products like <a href="https://azure.microsoft.com/en-us/blog/author/kenazk/">Azure Virtual Machines</a> at large companies and products like Nebula at smaller companies. 
+
+In particular, I've focused on understanding how to build product-led, enterprise B2B products for developer audiences.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
